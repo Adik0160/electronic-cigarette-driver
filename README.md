@@ -1,0 +1,5 @@
+-napiêcie ogniw: 6,4 - 8,5v
+-tac switch góra(wype³nienie +1) dó³(wype³nienie-1) - pokazywane jest procent wype³nienia
+-zabezpieczenie przed roz³adowaniem - informacja o roz³adowanej bateri - wyswietla "CEL" lub "ACC"
+-przytrzymanie góra(wype³nienie +1) dó³(wype³nienie-1) powoduje w³¹czenie opcji "ci¹g³ego sprawdzania napiêcia" - ponowne przytrzymanie wy³¹cza t¹ opcje(napiêcie pokazywane jest przy wy³¹czonym przycisku "fire")
+-blokowanie i odblokowywanie 5cio klikiem
